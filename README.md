@@ -1,6 +1,6 @@
 # Task Singular Vectors for Model Merging
 
-**Course:** Neural Networks 2024/2025 — Prof. Simone Scardapane (Sapienza University of Rome)  
+**Course:** Neural Networks, Prof. Simone Scardapane (Sapienza University of Rome)  
 **Author:** Naveen Tiwari (Student ID: 2261826) — solo project  
 **Paper i implemented:** Gargiulo et al., *Task Singular Vectors: Reducing Task Interference in Model Merging*
 
